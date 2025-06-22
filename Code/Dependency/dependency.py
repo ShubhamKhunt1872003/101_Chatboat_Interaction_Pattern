@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load data
-df = pd.read_csv('chatbot_pattern_frequency_fixed.csv')
+df = pd.read_csv('chatbot_pattern_frequency_table.csv')
 
 # Filter for top patterns (e.g., Total > 30 to avoid clutter)
 top_patterns = df[df['Total'] > 30].sort_values(by='Total', ascending=False)
