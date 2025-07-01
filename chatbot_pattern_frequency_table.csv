@@ -1,133 +1,133 @@
-Pattern Name,Customer Support,Government,Darkpattern,Total
-Access Level Landing Page,19,20,2,41
-Access Level Sub-page,19,6,1,26
-Language German,0,13,0,13
+﻿Pattern Name,Customer Support,Government,Darkpattern,Total
+Access Level Landing Page,14,20,2,36
+Access Level Sub-page,25,6,1,32
+Language German,4,15,6,25
 Language English,33,4,26,63
-Language Multilingual,5,9,0,14
-Avtar LOGO,2,8,4,14
-Avtar Human,4,3,2,9
-Avtar Chat Message,29,9,3,41
-Avtar Other or No,38,26,34,98
-Gender Male,6,6,1,13
-Gender Female,6,2,2,10
-Gender Neutral,26,16,1,43
-Gender None or Unclear,0,0,3,3
-Access Icon bottom right,33,10,0,43
-Access Icon bottom left,1,11,3,15
-Access Icon middle of the page,0,0,0,0
-Access Icon available by menu,0,0,0,0
-Access Icon other,18,13,5,36
-Required Contact Req  uired,6,2,3,11
-Required Contact Voluntary,9,0,0,9
-Required Contact Login,2,0,1,3
-Required Contact Other,18,13,5,36
-Required Contact No,38,26,30,94
-Text Input Field Send Button Partially enabled,3,0,0,3
-Text Input Field Send Button Always Available,3,0,1,4
-Text Input Field Other or No,38,26,34,98
-Quick Replies Round Under Message,29,10,5,44
-Quick Replies Round Above text input,2,0,1,3
-Quick Replies Angular Under Message,29,11,4,44
-Quick Replies Angular Above text input,5,1,0,6
-Quick Replies Other or No,38,26,34,98
-Only Quick Replies,12,22,28,88
-No Only Quick Replies,26,26,30,94
-Voice Input,23,22,28,88
-No Voice Input,12,26,30,94
-Form Input,38,22,28,88
-No Form Input,14,26,30,94
-Chat Message Bubbles Attached two different sides,6,0,0,6
-Chat Message Angular Attached two different sides,5,1,0,6
-Chat Message No or Other,38,26,34,98
-Card Only picture,0,0,0,0
-Card several button,19,6,0,25
-Card One button,3,0,0,3
-Card Other or No,38,26,34,98
-Carousel Scrollable,11,0,0,11
-Carousel Arrow Control,0,0,0,0
-Carousel Other or Not,35,26,5,66
-Webview Product,13,2,4,0
-Webview Other Application,12,12,0,0
-Webview Other or Not,15,26,34,98
-Accordion For chat messages,6,2,0,8
-Accordion For Quick Replay,0,0,0,0
-Accordion For Search Result,0,0,0,0
-Accordion Other or No,38,26,34,98
-Transcript download via mail,1,0,0,1
-Transcript download Download,4,5,1,10
-Transcript download Other or No,38,26,34,98
-System Information Top of the interface,0,0,0,0
-System Information bottom of the interface,0,0,0,0
-System Information before conversation,4,0,0,4
-System Information after conversation,0,0,0,0
-System Information in conversation,0,0,0,0
-System Information data privacy,0,0,0,0
-System Information platform provider,0,0,0,0
-System Information Other or No,12,26,34,98
-Information System,13,22,28,88
-No Information System,14,26,30,94
+Language Multilingual,2,7,0,9
+Avtar LOGO,11,4,4,19
+Avtar Human,7,14,2,23
+Avtar Chat Message,19,5,3,27
+Avtar Other or No,2,2,30,34
+Gender Male,6,5,1,12
+Gender Female,5,3,2,10
+Gender Neutral,26,17,6,49
+Gender None or Unclear,2,2,3,7
+Access Icon bottom right,27,11,4,42
+Access Icon bottom left,3,8,3,14
+Access Icon middle of the page,7,3,0,10
+Access Icon available by menu,2,5,0,7
+Access Icon other,0,1,2,3
+Required Contact Required,6,3,3,12
+Required Contact Voluntary,5,1,0,6
+Required Contact Login,9,1,1,11
+Required Contact Other,0,0,5,5
+Required Contact No,19,22,30,71
+Text Input Field Send Button Partially enabled,3,4,0,7
+Text Input Field Send Button Always Available,36,22,1,59
+Text Input Field Other or No,0,2,34,36
+Quick Replies Round Under Message,18,12,5,35
+Quick Replies Round Above text input,7,4,1,12
+Quick Replies Angular Under Message,8,6,4,18
+Quick Replies Angular Above text input,5,3,0,8
+Quick Replies Other or No,1,1,5,7
+Only Quick Replies,0,2,8,10
+No Only Quick Replies,39,22,0,61
+Voice Input,8,6,8,22
+No Voice Input,31,20,0,51
+Form Input,21,13,18,52
+No Form Input,18,13,20,51
+Chat Message Bubbles Attached two different sides,34,18,0,52
+Chat Message Angular Attached two different sides,3,4,0,7
+Chat Message No or Other,2,4,50,56
+Card Only picture,2,1,0,3
+Card several button,22,4,0,26
+Card One button,3,5,0,8
+Card Other or No,10,16,46,72
+Carousel Scrollable,13,8,0,21
+Carousel Arrow Control,3,2,0,5
+Carousel Other or Not,23,16,5,44
+Webview Product,16,0,4,20
+Webview Other Application,8,18,0,26
+Webview Other or Not,15,8,14,37
+Accordion For chat messages,3,2,1,6
+Accordion For Quick Replay,4,5,2,11
+Accordion For Search Result,3,0,0,3
+Accordion Other or No,29,19,45,93
+Transcript download via mail,5,4,7,16
+Transcript download Download,9,5,1,15
+Transcript download Other or No,25,17,43,85
+System Information Top of the interface,23,15,0,38
+System Information bottom of the interface,7,6,0,13
+System Information before conversation,6,3,0,9
+System Information after conversation,3,1,3,7
+System Information in conversation,3,1,0,4
+System Information data privacy,17,20,0,37
+System Information platform provider,24,3,0,27
+System Information Other or No,5,26,34,65
+Information System,13,22,28,63
+No Information System,14,26,30,70
 Name Stamps Top of the interface,0,0,0,0
-Name Stamps bottom of the interface,0,0,0,0
-Name Stamps above message,5,0,2,7
-Name Stamps under message,28,10,4,42
-Name Stamps include user name,0,0,0,0
-Name Stamps for chatbot,3,0,0,3
-Name Stamps for user,0,0,0,0
-Name Stamps Other or No,38,26,34,98
-Date Stamps Top of the interface,0,0,0,0
-Date Stamps bottom of the interface,0,0,0,0
-Date Stamps above message,5,0,2,7
-Date Stamps under message,28,10,4,42
-Date Stamps Other or No,38,26,34,98
-Time Stamp at the top of the conversation,0,0,0,0
-Time Stamp bottom of the interface,0,0,0,0
-Time Stamp above message,5,0,2,7
-Time Stamp under message,28,10,4,42
-Time Stamp Other or No,38,26,34,98
-Typing indicator Three Dots,31,20,1,52
-Typing indicator X is typing,0,0,0,0
-Typing indicator Animates Symbol,0,0,0,0
-Typing indicator Thinking,0,0,0,0
-Typing indicator Other or No,38,26,34,98
-Notification Unread messages,11,1,0,12
-Notification Popup,5,0,0,5
-Notification Other or no,38,26,34,98
-Audio Notification,38,22,28,88
-No Audio Notification,38,26,30,94
-Permanent Menu Burger Menu,4,3,0,7
-Permanent Menu Meatball Menu,0,0,0,0
-Permanent Menu Kabab Menu,0,0,0,0
-Permanent Menu Plus sign,0,0,0,0
-Permanent Menu in Header,2,0,0,2
-Permanent Menu in Footer,0,0,0,0
-Permanent Menu Other or No,38,26,34,98
-Action Icons Transcript download,0,0,0,0
-Action Icons Dialog Replay,0,0,0,0
-Action Icons Font Size,0,0,0,0
-Action Icons Notification options,3,0,0,3
-Action Icons Attachment,0,1,0,1
-Action Icons Emoji,0,0,0,0
-Action Icons Other or No,38,26,34,98
-Call-on menu chat messages,0,0,0,0
-Call-on menu quick replies,24,7,0,31
-Call-on menu other or no,35,26,5,66
-Conversation Recovery chat messages,0,0,0,0
-Conversation Recovery quick replies,24,7,0,31
-Conversation Recovery other or no,35,26,5,66
-Dialog Replay,38,22,28,88
-No Dialog Replay,38,26,30,94
-Live Agent,38,22,28,88
-No Live Agent,38,26,30,94
-Functionality Introduction Funcationality overview,0,0,0,0
-Functionality Introduction Only Welcome Message,9,6,0,15
-Functionality Introduction Quick Reply,0,0,0,0
-Functionality Introduction Other or No,38,26,34,98
-FAQs In chat,22,9,1,32
-FAQs In permanent menu,0,0,0,0
-FAQs Other or No,38,26,34,98
+Name Stamps bottom of the interface,0,1,0,1
+Name Stamps above message,14,0,2,16
+Name Stamps under message,5,10,4,19
+Name Stamps include user name,2,5,0,7
+Name Stamps for chatbot,19,16,0,35
+Name Stamps for user,17,10,0,27
+Name Stamps Other or No,2,6,45,53
+Date Stamps Top of the interface,11,9,0,20
+Date Stamps bottom of the interface,0,1,0,1
+Date Stamps above message,5,3,2,10
+Date Stamps under message,8,6,4,18
+Date Stamps Other or No,15,7,6,28
+Time Stamp at the top of the conversation,5,4,0,9
+Time Stamp bottom of the interface,0,5,0,5
+Time Stamp above message,5,9,2,16
+Time Stamp under message,17,10,4,31
+Time Stamp Other or No,12,26,4,42
+Typing indicator Three Dots,29,20,1,50
+Typing indicator X is typing,4,2,0,6
+Typing indicator Animates Symbol,1,0,0,1
+Typing indicator Thinking,2,1,0,3
+Typing indicator Other or No,2,3,14,19
+Notification Unread messages,16,2,0,18
+Notification Popup,5,10,0,15
+Notification Other or no,18,14,35,67
+Audio Notification,10,8,28,46
+No Audio Notification,29,16,30,75
+Permanent Menu Burger Menu,12,11,0,23
+Permanent Menu Meatball Menu,2,1,0,3
+Permanent Menu Kabab Menu,3,2,2,7
+Permanent Menu Plus sign,4,1,0,5
+Permanent Menu in Header,26,15,4,45
+Permanent Menu in Footer,7,5,0,12
+Permanent Menu Other or No,14,26,44,84
+Action Icons Transcript download,6,22,0,28
+Action Icons Dialog Replay,8,3,0,11
+Action Icons Font Size,3,3,0,6
+Action Icons Notification options,11,3,7,21
+Action Icons Attachment,2,1,0,3
+Action Icons Emoji,4,2,0,6
+Action Icons Other or No,14,14,34,62
+Call-on menu chat messages,4,2,0,6
+Call-on menu quick replies,12,9,0,21
+Call-on menu other or no,23,15,5,43
+Conversation Recovery chat messages,4,2,0,6
+Conversation Recovery quick replies,15,9,0,24
+Conversation Recovery other or no,20,15,5,40
+Dialog Replay,12,8,8,28
+No Dialog Replay,27,18,10,55
+Live Agent,27,12,28,67
+No Live Agent,12,14,30,56
+Functionality Introduction Funcationality overview,10,5,0,15
+Functionality Introduction Only Welcome Message,14,9,0,23
+Functionality Introduction Quick Reply,5,3,0,8
+Functionality Introduction Other or No,10,9,33,52
+FAQs In chat,19,9,1,29
+FAQs In permanent menu,3,2,0,5
+FAQs Other or No,17,15,4,36
 Feedback Form On message,4,1,0,5
-Feedback Form on Chatbot,15,15,2,32
-Feedback Form Other or No,38,26,34,98
-Message Reactions Thumbs up/down,9,20,0,29
-Message Reactions Stars,0,0,0,0
-Message Reactions Other or No,38,26,34,98
+Feedback Form on Chatbot,11,19,2,32
+Feedback Form Other or No,24,6,34,64
+Message Reactions Thumbs up/down,14,16,0,30
+Message Reactions Stars,4,2,0,6
+Message Reactions Other or No,20,8,7,35
